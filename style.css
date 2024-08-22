@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: #262832;
+}
+
+img {
+    width: 180px;
+    position: absolute;
+    top: 150px;
+    left: 590px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 320px;
+}
+
+a {
+    text-align: center;
+    color: #050425;
+    font-size: 20px;
+    margin-left: 600px;
+    background-color: #05c489;
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+}
